@@ -20,7 +20,7 @@ We have 3 dominant topics in our images:
 - Musical Instruments
 - Photography, Graphics & Art
 
-Looking at the highest and lowest quartiles of posts in terms of engagement, we find that the most popular posts have the highest concentration of topic 1. Lowest performing posts have higher contributionsf of topics 2 & 3.
+Looking at the highest and lowest quartiles of posts in terms of engagement, we find that the most popular posts have the highest concentration of topic 1. Lowest performing posts have higher contributions of topics 2 & 3.
 
 We would **suggest** that Coldplay focus on posting more pictures that contain the performing artists. Posts should show that they are playing music and entertaining people. These can include fancy lights, fonts and graphics, pictures taken at concerts under the sky as they have performed well. Colors like Blue and Violet are also dominant in these pictures and work well with the theme of the band.
 
