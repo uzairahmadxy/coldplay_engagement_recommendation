@@ -17,8 +17,12 @@ For the purpose of this exploratory project, comments were considered as engagem
 We have 3 dominant topics in our images:
 
 - Music & Arists
+![music_artists](/images/artist_musician.png)
+
 - Musical Instruments
+![instruments](/images/instruments.png)
 - Photography, Graphics & Art
+![art_graphics](/images/art_graphics.png)
 
 Looking at the highest and lowest quartiles of posts in terms of engagement, we find that the most popular posts have the highest concentration of topic 1. Lowest performing posts have higher contributions of topics 2 & 3.
 
