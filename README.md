@@ -14,14 +14,18 @@ In this project, we look at **Coldplay 🎸** because of the author's appreciati
 For the purpose of this exploratory project, comments were considered as engagement but a more complicated criterion should be defined involving likes, shares &amp; other social media metrics.
 
 ## Results
-We have 3 dominant topics in our images:
+We have 3 dominant topics on Coldplay's Instagram posts:
 
-- Music & Arists
+1) Music & Arists
+ 
 ![music_artists](/images/artist_musician.png)
 
-- Musical Instruments
+2) Musical Instruments
+
 ![instruments](/images/instruments.png)
-- Photography, Graphics & Art
+
+3) Photography, Graphics & Art
+
 ![art_graphics](/images/art_graphics.png)
 
 Looking at the highest and lowest quartiles of posts in terms of engagement, we find that the most popular posts have the highest concentration of topic 1. Lowest performing posts have higher contributions of topics 2 & 3.
